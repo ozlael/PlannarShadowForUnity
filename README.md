@@ -16,3 +16,4 @@ Cons
 3. Use Stencil. But, It is not a big deal nowadays because mobile devices are support it.
 
 ![image](http://cfile22.uf.tistory.com/image/260EC04458CB87B32BAD70)
+Sample asset : https://www.assetstore.unity3d.com/kr/#!/content/45319
