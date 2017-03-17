@@ -14,4 +14,4 @@ Only for planar floor.
 1. Only sharp edge.
 2. Use Stencil. It is not a big deal nowadays because mobile devices are support it too. But, very very old devices may not support it. Anyway, these devices are not good for shadow.
 
-![image](https://lh5.googleusercontent.com/cXh1u1JZ5_i1jZ4knLjTkhUwnbTwxZ5-su-fvdEe8fy_5Ixg-cXf0j9QQMSB1FqgH1KDJy-XzywPzmI=w1930-h912-rw)
+![image](http://cfile22.uf.tistory.com/image/260EC04458CB87B32BAD70)
