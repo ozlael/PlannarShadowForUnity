@@ -1,5 +1,5 @@
 # PlannarShadowForUnity
-Planar Shadow is a kind of old school. But, it is very cheap and useful for mobile games.
+Although Planar Shadow is a kind of old school, it is very cheap and useful for mobile games.
 Unity’s default shadow system use Shadowmap. It needs more power of Pixel Shader and Render Targets. That means that Shadowmap system is expensive especially on mobile devices. Not only for Unity, other engins are the same. 
 
 Actually, the Planar Shadow is not real shadow. It is just a mesh. But, it looks like a shadow by pressing/projecting into plan using Vertex Shader. It doesn’t need much power of Pixel Shader.
